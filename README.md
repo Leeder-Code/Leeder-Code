@@ -3,7 +3,6 @@
 
 ## I'm currently working on:
 
-- **[WorkeoAPP](https://app.workeo.dev)**
 - My personal web app (**[Portfolio](https://mati-dev.pl/)**)
 - Webscrappers
 - Custom Discord bots
