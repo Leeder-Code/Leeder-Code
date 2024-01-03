@@ -3,7 +3,8 @@
 
 ## I'm currently working on:
 
-- My personal web app (**[Portfolio](https://mati-dev.pl/)**)
+- My personal web app (**[Portfolio](#)**)
+- Minecraft server web app (**[NanoMC](https://nanomc.pl/)**)
 - Webscrappers
 - Custom Discord bots
 - Instagram bot
