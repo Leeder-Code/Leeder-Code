@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Mateusz and I'm 22 years old student of Computer Science.
+### My name is Mateusz and I'm 24 years old student of Computer Science.
 
 ## I'm currently working on:
 
