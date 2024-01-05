@@ -5,6 +5,7 @@
 
 - My personal web app (**[Portfolio](#)**)
 - Minecraft server web app (**[NanoMC](https://nanomc.pl/)**)
+- Workeo Landing page (**[Workeo.co](https://www.workeo.co/)**)
 - Webscrappers
 - Custom Discord bots
 - Instagram bot
