@@ -1,11 +1,13 @@
 ## Hi there 👋
-### My name is Mateusz and I'm 24 years old student of Computer Science.
+### My name is Mateusz and I'm 25 years old student of Computer Science.
 
 ## I'm currently working on:
 
 - My personal web app (**[Portfolio](#)**)
 - Minecraft server web app (**[NanoMC](https://nanomc.pl/)**)
+- Minecraft server web app (**[PikoMC](https://pikomc.pl/)**)
 - Workeo Landing page (**[Workeo.co](https://www.workeo.co/)**)
+- Woreko App (**[Workeo](https://app.workeo.dev/)**)
 - Webscrappers
 - Custom Discord bots
 - Instagram bot
