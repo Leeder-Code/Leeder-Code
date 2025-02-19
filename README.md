@@ -8,6 +8,7 @@
 - Minecraft server web app (**[PikoMC](https://pikomc.pl/)**)
 - Workeo Landing page (**[Workeo.co](https://www.workeo.co/)**)
 - Woreko App (**[Workeo](https://app.workeo.dev/)**)
+- Minecraft Plugins
 - Webscrappers
 - Custom Discord bots
 - Instagram bot
