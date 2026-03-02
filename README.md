@@ -6,8 +6,9 @@
 - My personal web app (**[Portfolio](#)**)
 - Minecraft server web app (**[NanoMC](https://nanomc.pl/)**)
 - Minecraft server web app (**[PikoMC](https://pikomc.pl/)**)
+- Minecraft server web app (**[ElCartel](https://elcartel.gg/)**)
 - Workeo Landing page (**[Workeo.co](https://www.workeo.co/)**)
-- Woreko App (**[Workeo](https://app.workeo.dev/)**)
+- Minecraft server management
 - Minecraft Plugins
 - Webscrappers
 - Custom Discord bots
