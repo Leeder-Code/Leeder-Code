@@ -4,9 +4,10 @@
 ## I'm currently working on:
 
 - My personal web app (**[Portfolio](#)**)
+- Minecraft server development - (**[LumoMC](https://lumomc.pl/)**)
 - Minecraft server web app (**[NanoMC](https://nanomc.pl/)**)
 - Minecraft server web app (**[PikoMC](https://pikomc.pl/)**)
-- Minecraft server web app (**[ElCartel](https://elcartel.gg/)**)
+- Minecraft server web app (**[LumoMC](https://lumomc.pl/)**)
 - Workeo Landing page (**[Workeo.co](https://www.workeo.co/)**)
 - Minecraft server management
 - Minecraft Plugins
